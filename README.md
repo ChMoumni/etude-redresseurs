@@ -35,6 +35,6 @@ Les figures générées sont automatiquement sauvegardées au format PDF dans le
 Rapport PDF
 Code source
 
-##📅 Année
+## 📅 Année
 
 2025 – Travail personnel dans le cadre d’une première approche de l’électronique de puissance
