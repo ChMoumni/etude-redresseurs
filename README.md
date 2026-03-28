@@ -17,7 +17,7 @@ Ce projet présente une étude théorique, expérimentale et numérique des redr
 
 1. Cloner le dépôt :
    ```bash
-   git clonechttps://github.com/ChMoumni/etude-redresseurs.git
+   https://github.com/ChMoumni/etude-redresseurs.git
 2. Installer les dépendances :
    ```bash
    pip install numpy matplotlib scipy
