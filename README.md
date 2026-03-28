@@ -32,8 +32,8 @@ Les figures générées sont automatiquement sauvegardées au format PDF dans le
 
 ## 🔗 Liens
 
-Rapport PDF
-Code source
+- [Rapport PDF](./rapport/Les_redresseurs_etude.pdf)
+- [Code source](./code/Simulation_redresseurs.py)
 
 ## 📅 Année
 
